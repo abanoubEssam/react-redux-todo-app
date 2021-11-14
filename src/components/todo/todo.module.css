@@ -1,0 +1,11 @@
+.HIGH {
+    border-left: 5px solid rgb(255, 0, 0);
+}
+
+.MEDIUM {
+    border-left: 5px solid rgb(0, 68, 255);
+}
+
+.LOW {
+    border-left: 5px solid rgb(153, 149, 158);
+}

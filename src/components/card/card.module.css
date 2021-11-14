@@ -1,0 +1,13 @@
+.card-container{
+    margin: auto;
+    box-shadow: 0 4px 8px 0 #00000033;
+    transition: 0.3s;
+    margin-bottom: 50px;
+    width: 70%;
+    padding: 20px;
+    text-align: left;
+}
+
+.card-container:first-child{
+    margin-top: 50px;
+}

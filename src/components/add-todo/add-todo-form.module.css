@@ -1,0 +1,17 @@
+.add-todo-btn-container {
+    position: fixed;
+    top: 90vh;
+    right: 80%;
+    height: 60px;
+    width: 60px;
+    text-align: center;
+}
+
+.error-text{
+    color: red;
+}
+
+.saveBtn {
+    text-align: center;
+    margin-top: 5%;
+}
